@@ -74,4 +74,4 @@ Simple, fast, and production-friendly.
 
 > Built like production systems — simple, reliable, observable.  
 >  
-> **— Shakir Bhat**
+> **— Shakir Bhat **
